@@ -1,13 +1,15 @@
-<h1 align="center">
-  Aplicações Kotlin
-</h1>
+<p align="center">
+    <img src="./resources/docs/logotypes/kotlin-workspace.png" width="280" alt="Logotipo — Kotlin Workspace" />
+</p>
 
 <div align="center">
 
-![Maintenance](https://img.shields.io/maintenance/yes/2025?style=for-the-badge)
+![Maintenance](https://img.shields.io/maintenance/yes/2026?style=for-the-badge)
 ![License MIT](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 
 </div>
+
+## Kotlin Workspace
 
 ## 📖 Descrição
 
@@ -41,11 +43,11 @@ Cada subprojeto Android é autocontido e inclui seu próprio Gradle wrapper e co
   <tr>
     <td style="padding:8px; text-align:center; vertical-align:top;">
       <p style="margin:0 0 8px 0; font-weight:700;">Splash</p>
-      <img src="./resources/docs/pokedex/01-splash.jpeg" alt="Pokedex splash" height="300" style="display:block; margin:0 auto;" />
+      <img src="./resources/docs/project-highlights/pokedex/01-splash.jpeg" alt="Pokedex splash" height="300" style="display:block; margin:0 auto;" />
     </td>
     <td style="padding:8px; text-align:center; vertical-align:top;">
       <p style="margin:0 0 8px 0; font-weight:700;">Home</p>
-      <img src="./resources/docs/pokedex/02-home.jpeg" alt="Pokedex home" height="300" style="display:block; margin:0 auto;" />
+      <img src="./resources/docs/project-highlights/pokedex/02-home.jpeg" alt="Pokedex home" height="300" style="display:block; margin:0 auto;" />
     </td>
   </tr>
 </table>
@@ -112,18 +114,14 @@ cd gui/src/Pokedex
 
 Como alternativa, abra o projeto no Android Studio (preferível para desenvolvimento) e importe o projeto Gradle — o Android Studio cuidará da configuração do SDK/Gradle para você.
 
----
+## 👤 Sobre o Desenvolvedor <a name="sobre-o-desenvolvedor"></a>
 
-## 👤 Sobre o Desenvolvedor
-
-<div align="center">
-
-<table>
+<table align="center">
   <tr>
     <td align="center">
         <br>
         <a href="https://github.com/0nF1REy" target="_blank">
-          <img src="./resources/docs/alan-ryan.jpg" height="160" alt="Foto de Alan Ryan">
+          <img src="./resources/docs/developer/alan-ryan.jpg" height="160" alt="Foto — Alan Ryan">
         </a>
         </p>
         <a href="https://github.com/0nF1REy" target="_blank">
@@ -158,6 +156,6 @@ Como alternativa, abra o projeto no Android Studio (preferível para desenvolvim
 
 Este projeto está sob a **licença MIT**. Consulte o arquivo **[LICENSE](LICENSE)** para obter mais detalhes.
 
-> ℹ️ **Aviso de Licença:** © 2025 Alan Ryan da Silva Domingues. Este projeto está licenciado sob os termos da licença MIT. Isso significa que você pode usá-lo, copiá-lo, modificá-lo e distribuí-lo com liberdade, desde que mantenha os avisos de copyright.
+> ℹ️ **Aviso de Licença:** &copy; 2025-2026 Alan Ryan da Silva Domingues. Este projeto está licenciado sob os termos da licença MIT. Isso significa que você pode usá-lo, copiá-lo, modificá-lo e distribuí-lo com liberdade, desde que mantenha os avisos de copyright.
 
 ⭐ Se este repositório foi útil para você, considere dar uma estrela!
